@@ -11,19 +11,19 @@ In this assignment, I'll be designing the tables to hold data in the CSVs, impor
 
 This assignment is divided into three parts: data modeling, data engineering, and data analysis.
 
-##Data Modeling
+## Data Modeling
 
 The CSVs from the Resources folder were inspected  andan ERD of the tables was sketched out  using the tool  http://www.quickdatabasediagrams.com.
 The ERD Image has been Uploaded in the Image File.
 
-##Data Engineering
+## Data Engineering
 
 Six Table Schemas were created using the provided information form the six CSV Files with specification of Data Types, Promary Keys, Foreign Keys and other constraints.
 Composite Keys were created by taking to Pimary Keys to uniquely identify a row when the Primary Keys were not Unique.
 CSV files were imported into the corresponding SQL tables.
 
 
-##Data Analysis
+## Data Analysis
 
 Eight View Tables were created to list the follwing details from the database.
 
